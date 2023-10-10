@@ -1,5 +1,5 @@
 # R-Project
-# Data Science with R
+# Bioinformatics Data Science with R
 
 This repository contains resources and code related to data science using R. It covers various aspects of data science, from the basics of R programming to machine learning techniques.
 
